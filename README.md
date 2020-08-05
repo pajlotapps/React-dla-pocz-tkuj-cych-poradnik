@@ -1,13 +1,13 @@
-# React dla początkujących - Poradnik 
+# [React][react-url] dla początkujących - Poradnik 
 
 
-## [React](https://pl.reactjs.org/) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) 
+## [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) 
 
 
-<h3 align="center"> <a href="https://pl.reactjs.org">React</a></h3>
+<!-- <h3 align="center"> <a href="https://pl.reactjs.org">React</a></h3> -->
 <p align="center">
   <a href="https://pl.reactjs.org">
-    <img alt="react" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React logo">
+    <img alt="react" width="104px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React logo">
   </a>
 </p>
 
@@ -69,3 +69,4 @@ oraz jego tutorialu (React JS for beginners) [YouTube](https://www.youtube.com/w
 [npmjs-url]: https://www.npmjs.com
 [yarn-url]: https://yarnpkg.com
 [rdt-url]: https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+[react-url]: https://pl.reactjs.org/
