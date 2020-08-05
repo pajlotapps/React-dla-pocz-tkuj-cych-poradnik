@@ -15,19 +15,19 @@ https://github.com/facebook/react
 
 #### 1. node.js
 
-Możemy zainstalowac ze strony nodejs.org pobierając plik .pkg
+Możemy zainstalowac ze strony [nodejs.org][nodejs-url] pobierając plik .pkg
 lub wykorzystując *Homebrew* 
 
 ```bash
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
+sama instalacja node.js odbywa się z wykorzystaniem komendy:
+```zsh
 brew install node
 ```
 
-
-
-
-1. npm (zostanie zainstalowane automatycznie podczas instalacji node.js) 
+### 2. npm [npmjs.org][npmjs-url]
+zostanie zainstalowane automatycznie podczas instalacji node.js
 
 
 
@@ -38,3 +38,4 @@ oraz jego tutorialu (React JS for beginners) [YouTube](https://www.youtube.com/w
 
 <!-- Linki -->
 [nodejs-url]: https://nodejs.org/en/
+[npmjs-url]: https://www.npmjs.com
