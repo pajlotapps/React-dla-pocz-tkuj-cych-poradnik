@@ -25,18 +25,33 @@ lub wykorzystując *Homebrew*
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-sama instalacja **node.js** odbywa się z wykorzystaniem komendy:
+Sama instalacja **node.js** odbywa się z wykorzystaniem komendy:
 
 ```zsh
 brew install node
 ```
 
-pod [tym linkiem](https://changelog.com/posts/install-node-js-with-homebrew-on-os-x) znajduje się bardziej szczegółowy poradnik intalacji node.js wykorzystując **brew**
+Sprawdzic aktualnie zainstalą wersję nodejs można przy pomocy komendy
+
+```zsh
+node -v
+```
+
+Pod [tym linkiem](https://changelog.com/posts/install-node-js-with-homebrew-on-os-x) znajduje się bardziej szczegółowy poradnik intalacji node.js wykorzystując **brew**
 
 ### 2. npm 
 [npmjs.org][npmjs-url]
 zostanie zainstalowane automatycznie podczas instalacji node.js
+ 
+### 3. yarn
+[Yarn][yarn-url] to kolejny menadżer pakietów dla JavaScript - więcej o zaletach [Yarn](https://www.nafrontendzie.pl/czym-jest-yarn-czego-sluzy)
 
+```zsh
+brew install yarn
+```
+
+ 
+Dokumentacja React dostępna na [tej stronie](https://reactjs.org/docs).  
 
 
 
@@ -47,3 +62,4 @@ oraz jego tutorialu (React JS for beginners) [YouTube](https://www.youtube.com/w
 <!-- Linki -->
 [nodejs-url]: https://nodejs.org/en/
 [npmjs-url]: https://www.npmjs.com
+[yarn-url]: https://yarnpkg.com
