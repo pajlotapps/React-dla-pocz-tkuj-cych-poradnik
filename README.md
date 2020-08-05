@@ -22,13 +22,16 @@ lub wykorzystując *Homebrew*
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-sama instalacja *node.js* odbywa się z wykorzystaniem komendy:
+sama instalacja **node.js** odbywa się z wykorzystaniem komendy:
 
 ```zsh
 brew install node
 ```
 
-### 2. npm [npmjs.org][npmjs-url]
+pod [tym linkiem](https://changelog.com/posts/install-node-js-with-homebrew-on-os-x) znajduje się bardziej szczegółowy poradnik intalacji node.js z wykorzstaneim **brew**
+
+### 2. npm 
+[npmjs.org][npmjs-url]
 zostanie zainstalowane automatycznie podczas instalacji node.js
 
 
