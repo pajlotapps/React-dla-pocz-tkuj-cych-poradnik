@@ -66,7 +66,8 @@ cd my-app
 npm start
 ```
 
-
+Zajmie to chwile po czym w oknie terminalu ukaże nam się:
+![preview][c-r-a-url]
 
 Dokumentacja React dostępna na [tej stronie](https://reactjs.org/docs).  
 
@@ -83,3 +84,5 @@ oraz jego tutorialu (React JS for beginners) [YouTube](https://www.youtube.com/w
 [rdt-url]: https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
 [react-url]: https://pl.reactjs.org/
 [create-react-url]: https://create-react-app.dev
+
+[preview-url]: https://raw.githubusercontent.com/pajlotapps/React-dla-poczatkujacych-poradnik/master/c-r-a.png?raw=true
