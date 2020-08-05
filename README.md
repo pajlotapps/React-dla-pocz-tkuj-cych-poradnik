@@ -1,10 +1,13 @@
 # React dla początkujących - Poradnik 
 
-<p align="center">
-[React](https://pl.reactjs.org/)<br/> 
+
+## [React](https://pl.reactjs.org/)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) 
 
-  <a href="https://v5.getbootstrap.com/">
+
+<h3 align="center">[React](https://pl.reactjs.org/)</h3>
+<p align="center">
+  <a href="https://pl.reactjs.org">
     <img align="left" alt="xCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React logo" width="200" >
   </a>
 </p>
