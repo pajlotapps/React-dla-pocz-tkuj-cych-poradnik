@@ -86,4 +86,4 @@ oraz jego tutorialu (React JS for beginners) [YouTube](https://www.youtube.com/w
 [react-url]: https://pl.reactjs.org/
 [create-react-url]: https://create-react-app.dev
 
-[preview-url]: https://raw.githubusercontent.com/pajlotapps/React-dla-poczatkujacych-poradnik/master/c-r-a.png?raw=true
+[c-r-a-url]: https://raw.githubusercontent.com/pajlotapps/React-dla-poczatkujacych-poradnik/master/c-r-a.png?raw=true
