@@ -66,7 +66,7 @@ cd my-app
 npm start
 ```
 
-trochę więcej o *npx* -> [link][https://blog.npmjs.org/post/162869356040/introducing-npx-an-npm-package-runner] ... [stockoverflow][https://stackoverflow.com/questions/50605219/difference-between-npx-and-npm]
+trochę więcej o *npx* -> [link](https://blog.npmjs.org/post/162869356040/introducing-npx-an-npm-package-runner) ... [stockoverflow](https://stackoverflow.com/questions/50605219/difference-between-npx-and-npm)
 
 ```
 NPM - Manages packages but doesn't make life easy executing any.
