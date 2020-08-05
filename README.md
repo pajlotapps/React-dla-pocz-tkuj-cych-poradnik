@@ -61,10 +61,19 @@ Strona [projektu][create-react-url]
 'Set up a modern web app by running one command.'
  
 ```
-[npx][https://blog.npmjs.org/post/162869356040/introducing-npx-an-npm-package-runner] create-react-app my-app
+npx create-react-app my-app
 cd my-app
 npm start
 ```
+
+trochę więcej o *[npx][https://blog.npmjs.org/post/162869356040/introducing-npx-an-npm-package-runner]*
+
+```
+NPM - Manages packages but doesn't make life easy executing any.
+NPX - A tool for executing Node packages.
+```
+
+
 
 Zajmie to chwile po czym w oknie terminalu ukaże nam się lista przydatnych komend z krótkim opisem
 
