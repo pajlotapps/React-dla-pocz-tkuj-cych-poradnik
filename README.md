@@ -11,8 +11,8 @@
   </a>
 </p>
 
-https://github.com/facebook/react
-
+[Github: facebook/react][https://github.com/facebook/react]
+Dokumentacja React dostępna na [tej stronie](https://reactjs.org/docs)
 
 ### Co potrzebujemy?
 
@@ -72,7 +72,6 @@ Zajmie to chwile po czym w oknie terminalu ukaże nam się lista przydatnych kom
 
 Więcej szczegółów będzie zawarte w wygenerowanym pliku `README.md`
 
-Dokumentacja React dostępna na [tej stronie](https://reactjs.org/docs).  
 
 
 
