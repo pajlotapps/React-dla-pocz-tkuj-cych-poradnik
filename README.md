@@ -67,6 +67,7 @@ npm start
 ```
 
 Zajmie to chwile po czym w oknie terminalu ukaże nam się:
+<br/>
 ![preview][c-r-a-url]
 
 Dokumentacja React dostępna na [tej stronie](https://reactjs.org/docs).  
