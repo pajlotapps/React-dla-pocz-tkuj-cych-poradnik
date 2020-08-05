@@ -11,7 +11,7 @@
   </a>
 </p>
 
-[Github: facebook/react][https://github.com/facebook/react]
+[Github: facebook/react](https://github.com/facebook/react)
 Dokumentacja React dostępna na [tej stronie](https://reactjs.org/docs)
 
 ### Co potrzebujemy?
