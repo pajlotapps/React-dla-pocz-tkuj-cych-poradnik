@@ -40,16 +40,21 @@ node -v
 Pod [tym linkiem](https://changelog.com/posts/install-node-js-with-homebrew-on-os-x) znajduje się bardziej szczegółowy poradnik intalacji node.js wykorzystując **brew**
 
 ### 2. npm 
-[npmjs.org][npmjs-url]
-zostanie zainstalowane automatycznie podczas instalacji node.js
+[npm][npmjs-url] to  menadżer pakietów dla JavaScript, zostanie zainstalowany automatycznie podczas instalacji node.js
  
 ### 3. yarn
-[Yarn][yarn-url] to kolejny menadżer pakietów dla JavaScript - więcej o zaletach [Yarn](https://www.nafrontendzie.pl/czym-jest-yarn-czego-sluzy)
+[Yarn][yarn-url] to kolejny menadżer pakietów dla JavaScript - więcej o zaletach tego narzędzia można przeczytac na [tej stronie](https://www.nafrontendzie.pl/czym-jest-yarn-czego-sluzy)
 
 ```zsh
 brew install yarn
 ```
 
+aktualnie zainstalowaną wersję sprawdzimy komendą:
+```zsh
+yarn -v
+```
+### 4. React developer tools
+Przyda się też rozszerzenie do przeglądarki chrome - [react deveoper tools][rdt-url]
  
 Dokumentacja React dostępna na [tej stronie](https://reactjs.org/docs).  
 
@@ -63,3 +68,4 @@ oraz jego tutorialu (React JS for beginners) [YouTube](https://www.youtube.com/w
 [nodejs-url]: https://nodejs.org/en/
 [npmjs-url]: https://www.npmjs.com
 [yarn-url]: https://yarnpkg.com
+[rdt-url]: https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
