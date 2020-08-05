@@ -14,7 +14,7 @@
 https://github.com/facebook/react
 
 
-### Co potrzebujemy
+### Co potrzebujemy?
 
 #### 1. node.js
 
@@ -56,6 +56,16 @@ yarn -v
 ### 4. React developer tools
 Przyda się też rozszerzenie do przeglądarki chrome - [react deveoper tools][rdt-url]
  
+### [Create React App][create-react-url]
+'Set up a modern web app by running one command.'
+
+`
+npx create-react-app my-app
+cd my-app
+npm start
+`
+
+
 Dokumentacja React dostępna na [tej stronie](https://reactjs.org/docs).  
 
 
@@ -70,3 +80,4 @@ oraz jego tutorialu (React JS for beginners) [YouTube](https://www.youtube.com/w
 [yarn-url]: https://yarnpkg.com
 [rdt-url]: https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
 [react-url]: https://pl.reactjs.org/
+[create-react-url]: https://create-react-app.dev
