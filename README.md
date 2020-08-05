@@ -2,10 +2,14 @@
 
 ## [React](https://pl.reactjs.org/) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) 
 
-<img align="left" alt="xCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<p align="center">
+  <a href="https://v5.getbootstrap.com/">
+    <img align="left" alt="xCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React logo" width="200" >
+  </a>
+</p>
 
-
-<span style="display:block;text-align:center"> [reactjs.org](https://pl.reactjs.org) </span>
+<h3 align="center">React</h3>
+<p align="center"> [reactjs.org](https://pl.reactjs.org) </span>
 
 
 https://github.com/facebook/react
@@ -28,7 +32,7 @@ sama instalacja **node.js** odbywa się z wykorzystaniem komendy:
 brew install node
 ```
 
-pod [tym linkiem](https://changelog.com/posts/install-node-js-with-homebrew-on-os-x) znajduje się bardziej szczegółowy poradnik intalacji node.js z wykorzstaneim **brew**
+pod [tym linkiem](https://changelog.com/posts/install-node-js-with-homebrew-on-os-x) znajduje się bardziej szczegółowy poradnik intalacji node.js wykorzystując **brew**
 
 ### 2. npm 
 [npmjs.org][npmjs-url]
