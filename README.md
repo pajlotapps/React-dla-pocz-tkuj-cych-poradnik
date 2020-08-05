@@ -1,10 +1,13 @@
-# React <img align="left" alt="xCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> dla początkujących - Poradnik 
+# React dla początkujących - Poradnik 
+
+[React](https://pl.reactjs.org/) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) [![CircleCI Status](https://circleci.com/gh/facebook/react.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/facebook/react) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
 
 <img align="left" alt="xCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
+<p style="align: center">[reactjs.org] (https://pl.reactjs.org)</p>
 
-<p style="align: center">(https://pl.reactjs.org)</p>
 
+https://github.com/facebook/react
 
 
 Poradnik bazuje na repozytorium [QuentinWatt](https://github.com/QuentinWatt) <br/>
