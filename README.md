@@ -12,7 +12,7 @@
 </p>
 
 Github: [facebook/react](https://github.com/facebook/react) <br/>
-Dokumentacja React dostępna na [tej stronie](https://reactjs.org/docs)
+Dokumentacja React dostępna na [stronie projektu](https://reactjs.org/docs)
 
 ### Co potrzebujemy?
 
@@ -61,7 +61,7 @@ Strona [projektu][create-react-url]
 'Set up a modern web app by running one command.'
  
 ```
-npx create-react-app my-app
+[npx][https://blog.npmjs.org/post/162869356040/introducing-npx-an-npm-package-runner] create-react-app my-app
 cd my-app
 npm start
 ```
