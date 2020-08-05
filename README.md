@@ -53,6 +53,17 @@ aktualnie zainstalowaną wersję sprawdzimy komendą:
 ```zsh
 yarn -v
 ```
+
+##### Lista komend yarn
+
+`yarn start` - uruchamia serwer
+
+`yarn build` - przygotowuje pliki na produkcję
+
+`yarn test` -  Starts the test runner.
+
+`yarn eject` - czyści i usuwa
+
 #### 4. React developer tools
 Przyda się też rozszerzenie do przeglądarki chrome - [react deveoper tools][rdt-url]
  
@@ -63,7 +74,7 @@ Strona [projektu][create-react-url]
 ```
 npx create-react-app my-app
 cd my-app
-npm start
+npm start <albo> yarn start
 ```
 
 trochę więcej o *npx* -> [link](https://blog.npmjs.org/post/162869356040/introducing-npx-an-npm-package-runner) ... [stockoverflow](https://stackoverflow.com/questions/50605219/difference-between-npx-and-npm)
