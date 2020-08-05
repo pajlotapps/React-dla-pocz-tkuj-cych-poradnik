@@ -56,7 +56,7 @@ yarn -v
 ### 4. React developer tools
 Przyda się też rozszerzenie do przeglądarki chrome - [react deveoper tools][rdt-url]
  
-### Create React App
+## Create React App
 Strona [projektu][create-react-url]
 'Set up a modern web app by running one command.'
  
