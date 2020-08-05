@@ -11,5 +11,13 @@
 https://github.com/facebook/react
 
 
+# Co potrzebujemy
+
+1. node.js
+2. npm (zostanie zainstalowane automatycznie podczas instalacji node.js) 
+
+
+
+
 Poradnik bazuje na repozytorium [QuentinWatt](https://github.com/QuentinWatt) <br/>
 oraz jego tutorialu (React JS for beginners) [YouTube](https://www.youtube.com/watch?v=HDEVMozZhv8&list=PL41lfR-6DnOoTiHU4Ub6efP-p3xAq3eiV).
