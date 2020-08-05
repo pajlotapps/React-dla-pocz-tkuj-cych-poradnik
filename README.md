@@ -7,7 +7,7 @@
 <h3 align="center"> <a href="https://pl.reactjs.org">React</a></h3>
 <p align="center">
   <a href="https://pl.reactjs.org">
-    <img align="left" alt="xCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React logo" width="200" >
+    <img alt="react" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React logo">
   </a>
 </p>
 
