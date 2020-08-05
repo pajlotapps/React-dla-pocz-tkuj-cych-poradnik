@@ -20,8 +20,10 @@ lub wykorzystując *Homebrew*
 
 ```bash
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
 
-sama instalacja node.js odbywa się z wykorzystaniem komendy:
+sama instalacja *node.js* odbywa się z wykorzystaniem komendy:
+
 ```zsh
 brew install node
 ```
