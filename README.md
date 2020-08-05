@@ -11,13 +11,30 @@
 https://github.com/facebook/react
 
 
-# Co potrzebujemy
+### Co potrzebujemy
 
-1. node.js
-2. npm (zostanie zainstalowane automatycznie podczas instalacji node.js) 
+#### 1. node.js
+
+Możemy zainstalowac ze strony nodejs.org pobierając plik .pkg
+lub wykorzystując *Homebrew* 
+
+```bash
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+brew install node
+```
+
+
+
+
+1. npm (zostanie zainstalowane automatycznie podczas instalacji node.js) 
 
 
 
 
 Poradnik bazuje na repozytorium [QuentinWatt](https://github.com/QuentinWatt) <br/>
 oraz jego tutorialu (React JS for beginners) [YouTube](https://www.youtube.com/watch?v=HDEVMozZhv8&list=PL41lfR-6DnOoTiHU4Ub6efP-p3xAq3eiV).
+
+
+Linki
+[nodejs-url]: https://nodejs.org/en/
