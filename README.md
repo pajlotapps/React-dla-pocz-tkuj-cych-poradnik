@@ -137,10 +137,20 @@ yarn add postcss-cli
 
 Dodatkowo instalujemy `autoprefixer`
 
-
 ```
 yarn add autoprefixer
 ```
+Dependencies w plik `package.json` zostanie wzbogacony o linijkę: `"autoprefixer": "^9.8.6",`
+
+Do `"scripts"` dopisujemy ponizsze linijki:
+```
+"build:css": "postcss src/index.css -o src/tailindcss.css",
+"watch:css": "postcss src/index.css -o src/tailindcss.css -w",
+```
+Umożliwi to skompiowanie pliku .css komendą `yarn build:css`
+
+
+
 
 <!-- Poradnik bazuje na repozytorium [QuentinWatt](https://github.com/QuentinWatt) <br/>
 oraz jego tutorialu (React JS for beginners) [YouTube](https://www.youtube.com/watch?v=HDEVMozZhv8&list=PL41lfR-6DnOoTiHU4Ub6efP-p3xAq3eiV). -->
