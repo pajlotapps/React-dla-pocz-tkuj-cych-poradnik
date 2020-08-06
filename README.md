@@ -98,6 +98,19 @@ Więcej szczegółów zostanie zawarte w wygenerowanym właśnie pliku `README.m
 yarn add tailwindcss
 ```
 
+usuwamy plik App.css - jeśli takowuy istnieje
+w pliku `App.js` zmieniamy importowany plik css: `import './index.css';`
+edytujemy plik `index.css'
+
+```
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+```
+
+
 <!-- Poradnik bazuje na repozytorium [QuentinWatt](https://github.com/QuentinWatt) <br/>
 oraz jego tutorialu (React JS for beginners) [YouTube](https://www.youtube.com/watch?v=HDEVMozZhv8&list=PL41lfR-6DnOoTiHU4Ub6efP-p3xAq3eiV). -->
 
