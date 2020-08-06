@@ -98,8 +98,8 @@ Więcej szczegółów zostanie zawarte w wygenerowanym właśnie pliku `README.m
 yarn add tailwindcss
 ```
 
-Usuwamy plik `App.css` - jeśli takowy istnieje.<br/>
-W pliku `App.js` zmieniamy importowany plik css: `import './index.css';`
+Usuwamy plik `App.css` - jeśli takowy istnieje.<br/><br/>
+W pliku `App.js` zmieniamy importowany plik css: `import './index.css';`<br/><br/>
 Edytujemy plik `index.css' tak aby zawierał poniższy kod:
 
 ```
@@ -109,6 +109,19 @@ Edytujemy plik `index.css' tak aby zawierał poniższy kod:
 
 @import "tailwindcss/utilities";
 ```
+
+Tworzymy plik konfiguracyjny tailwind:
+```
+npx tailwindcss init
+```
+Powoduje to utworzenie pliku o nazwie `tailwind.congif.js`
+
+Następnie, w głównym katalogu, tworzymy plik `postcss.config.js`:  
+```
+touch postcss.config.js
+```
+
+
 
 
 <!-- Poradnik bazuje na repozytorium [QuentinWatt](https://github.com/QuentinWatt) <br/>
