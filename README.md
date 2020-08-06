@@ -92,7 +92,7 @@ Więcej szczegółów zostanie zawarte w wygenerowanym właśnie pliku `README.m
 
 ## Wykorzystane frameworki
 ### CSS
-* [tailwind](https://tailwindcss.com) @tailwindlabs
+* [tailwind](https://tailwindcss.com) [@tailwindlabs](https://github.com/tailwindlabs)
 * [dokumentacja](https://tailwindcss.com/docs/installation)
   
 ```
