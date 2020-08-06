@@ -84,16 +84,15 @@ NPM - Manages packages but doesn't make life easy executing any.
 NPX - A tool for executing Node packages.
 ```
 
-
-
-
 Zajmie to chwile po czym w oknie terminalu ukaże nam się lista przydatnych komend z krótkim opisem
 
 ![preview][c-r-a-url]
 
-Więcej szczegółów będzie zawarte w wygenerowanym pliku `README.md`
+Więcej szczegółów zostanie zawarte w wygenerowanym właśnie pliku `README.md`
 
-
+## Wykorzystane frameworki
+### CSS
+* [tailwind](https://tailwindcss.com)
 
 
 <!-- Poradnik bazuje na repozytorium [QuentinWatt](https://github.com/QuentinWatt) <br/>
