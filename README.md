@@ -120,9 +120,27 @@ Następnie, w głównym katalogu, tworzymy plik `postcss.config.js`:
 ```
 touch postcss.config.js
 ```
+i wypełniamy go poniższym kodem:
+```
+module.exports = {
+  plugins: [
+    require('tailwindcss'),
+    require('autoprefixer'),
+  ]
+}
+```
+
+Plik `package.json` nie zawiera jeszcze linijki kodu uwzględniającej właśnie utworzony plik, w tym celu wywołujemy komendę:
+```
+yarn add postcss-cli
+```
+
+Dodatkowo instalujemy `autoprefixer`
 
 
-
+```
+yarn add autoprefixer
+```
 
 <!-- Poradnik bazuje na repozytorium [QuentinWatt](https://github.com/QuentinWatt) <br/>
 oraz jego tutorialu (React JS for beginners) [YouTube](https://www.youtube.com/watch?v=HDEVMozZhv8&list=PL41lfR-6DnOoTiHU4Ub6efP-p3xAq3eiV). -->
