@@ -92,7 +92,8 @@ Więcej szczegółów zostanie zawarte w wygenerowanym właśnie pliku `README.m
 
 ## Wykorzystane frameworki
 ### CSS
-* [tailwind](https://tailwindcss.com)
+* [tailwind](https://tailwindcss.com) @tailwindlabs
+* [dokumentacja](https://tailwindcss.com/docs/installation)
   
 ```
 yarn add tailwindcss
@@ -149,7 +150,7 @@ Do `"scripts"` dopisujemy ponizsze linijki:
 ```
 Umożliwi to skompiowanie pliku .css komendą `yarn build:css`
 
-Zmodyfikujemy nieco linijki `start` i `build` tak aby wywolywac `yarn build:css` przy uruchamianiu serwera
+Zmodyfikujemy nieco linijki `start` i `build` tak aby wywolywac `yarn build:css` przy uruchamianiu serwera:
 
 ```
     "start": "yarn build:css && react-scripts start",
