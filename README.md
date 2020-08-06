@@ -92,7 +92,7 @@ Więcej szczegółów zostanie zawarte w wygenerowanym właśnie pliku `README.m
 
 ## Wykorzystane frameworki
 ### CSS
-* [tailwind](https://tailwindcss.com) [@tailwindlabs](https://github.com/tailwindlabs)
+* [tailwindcss](https://tailwindcss.com) from [@tailwindlabs](https://github.com/tailwindlabs)
 * [dokumentacja](https://tailwindcss.com/docs/installation)
   
 ```
@@ -156,6 +156,17 @@ Zmodyfikujemy nieco linijki `start` i `build` tak aby wywolywac `yarn build:css`
     "start": "yarn build:css && react-scripts start",
     "build": "yarn build:css && react-scripts build",
 ````
+
+### FontAwesome
+* [Github repo](https://github.com/FortAwesome/react-fontawesome)
+
+Instalacja przez **yarn**
+```
+yarn add @fortawesome/fontawesome-svg-core \
+         @fortawesome/free-solid-svg-icons \
+         @fortawesome/react-fontawesome
+```
+
 
 
 <!-- Poradnik bazuje na repozytorium [QuentinWatt](https://github.com/QuentinWatt) <br/>
