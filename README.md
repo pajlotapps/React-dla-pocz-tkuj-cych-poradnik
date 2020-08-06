@@ -14,7 +14,7 @@
 Github: [facebook/react](https://github.com/facebook/react) <br/>
 Dokumentacja React dostępna na [stronie projektu](https://reactjs.org/docs)
 
-### Co potrzebujemy?
+### A: Co potrzebujemy?
 
 #### 1. node.js
 
@@ -67,7 +67,7 @@ yarn -v
 #### 4. React developer tools
 Przyda się też rozszerzenie do przeglądarki chrome - [react deveoper tools][rdt-url]
  
-## Create React App
+## B: Create React App
 Strona [projektu][create-react-url]
 'Set up a modern web app by running one command.'
  
