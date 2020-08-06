@@ -98,9 +98,9 @@ Więcej szczegółów zostanie zawarte w wygenerowanym właśnie pliku `README.m
 yarn add tailwindcss
 ```
 
-usuwamy plik App.css - jeśli takowuy istnieje
-w pliku `App.js` zmieniamy importowany plik css: `import './index.css';`
-edytujemy plik `index.css'
+Usuwamy plik `App.css` - jeśli takowy istnieje.<br/>
+W pliku `App.js` zmieniamy importowany plik css: `import './index.css';`
+Edytujemy plik `index.css' tak aby zawierał poniższy kod:
 
 ```
 @import "tailwindcss/base";
