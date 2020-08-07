@@ -167,7 +167,16 @@ yarn add @fortawesome/fontawesome-svg-core \
          @fortawesome/react-fontawesome
 ```
 
+### react-spring
+Biblioteka umożliwiająca wykorzystanie spręzystych animacji interfejsu
 
+* [react-spring](https://www.react-spring.io)
+* [GitHub repo](https://github.com/react-spring/react-spring)
+
+Instalacja przy pomocy **yarn**
+```
+yarn add react-spring
+```
 
 <!-- Poradnik bazuje na repozytorium [QuentinWatt](https://github.com/QuentinWatt) <br/>
 oraz jego tutorialu (React JS for beginners) [YouTube](https://www.youtube.com/watch?v=HDEVMozZhv8&list=PL41lfR-6DnOoTiHU4Ub6efP-p3xAq3eiV). -->
